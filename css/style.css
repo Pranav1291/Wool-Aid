@@ -1,0 +1,221 @@
+* {
+   font-family: "Nunito", sans-serif;
+   font-optical-sizing: auto;
+
+   font-style: normal;
+   height: auto;
+   margin: 0px;
+}
+
+
+.mainsection {
+   position: relative;
+   overflow-x: hidden;
+   margin: 0;
+   padding: 0;
+   z-index: 1;
+}
+.mainshopbtn {
+   position: absolute;
+   margin-top: -1057px;
+   margin-left: 640px;
+}
+
+.navbar {
+   display: flex;
+   justify-content: center;
+   position: fixed;
+   z-index: 2;
+   padding-left: 720px;
+   
+
+
+
+
+}
+
+.navbar ul {
+   position: fixed;
+   margin-top: 44px;
+
+
+   width: 558px;
+   height: 70px;
+
+
+   position: absolute;
+   display: flex;
+   justify-content: space-around;
+   background-color: white;
+   border-radius: 100px;
+   list-style: none;
+   z-index: 2;
+
+
+}
+
+.navbar .navlogo {
+   margin-top: 17px;
+   margin-left: -30px;
+}
+
+.navbar .navbandages {
+   margin-top: 26px;
+}
+
+.navbar .navstory {
+   margin-top: 26px;
+}
+
+.navbar .navjournal {
+   margin-top: 25px;
+}
+
+.navbar .navbuy {
+   margin-top: 12px;
+}
+
+.biodegrademain {
+
+   width: 1440px;
+   height: auto;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 20px;
+   padding-top: 59.81px;
+
+}
+
+.biodegrade {
+   width: 1279px;
+   height: auto;
+   display: flex;
+   flex: wrap;
+   justify-content: space-between;
+   padding-top: 85.19px;
+   padding-right: 65px;
+
+}
+
+.buyamazonbtn {
+   display: flex;
+   justify-content: space-between;
+   gap: 14px;
+}
+
+.wecreated {
+   width: 1440px;
+   height: 702px;
+   position: relative;
+
+}
+
+.wecreated1 {
+   padding-top: 120.65px;
+   padding-left: 405px;
+   padding-right: 289.61px;
+   z-index: 2;
+   position: absolute;
+
+}
+
+.wecreated2 {
+   margin-top: 335px;
+
+   margin-left: 50px;
+   position: absolute;
+   z-index: 1;
+
+
+}
+
+.optimised {
+   width: 1440px;
+   height: 977px;
+   padding-top: 0px;
+
+}
+
+.optimised img {
+   padding-left: 80px;
+}
+
+.optimised div {
+   margin-left: -90px;
+}
+
+.neareststore {
+   width: 1440px;
+   height: 761px;
+}
+
+.neareststore .neareststoreheading {
+   padding-inline: 347.3px;
+   padding-top: 87.42px;
+}
+
+.neareststore .stores {
+   width: 959.14px;
+   height: 427.1px;
+   padding-left: 220.43px;
+   padding-top: 40px;
+
+
+}
+
+.stores1 {
+   display: flex;
+   justify-content: space-between;
+}
+
+.shopnowfooter {
+   width: 1440px;
+   height: 491px;
+   position: relative;
+   padding-left:170px;
+   padding-top: 50px;
+   padding-bottom: 0px;
+   
+
+}
+.shopnowbtn {
+   position: absolute;
+   padding-top:142px;
+   margin-left: -220px;
+   
+
+}
+.footermain {
+   width: 1440px;
+   height:338px;
+   background-color: #D9E5FA;
+   
+}
+.footerimg1 {
+   padding-top: 66.14px;
+   padding-left: 144.56px;
+   
+}
+.footerline {
+   width: 353px;
+   height: auto;
+   display:flex;
+   gap: 32px;
+   flex-wrap:  wrap;
+   
+   padding-left: 513px;
+   margin-top: -200px;
+   
+   
+  
+}
+.footertrade {
+   margin-left: 513px;
+   margin-top: 96.21px;
+}
+.insta {
+   margin-left: 1167px;
+   margin-top: -240px;
+}
+

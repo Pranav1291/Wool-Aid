@@ -1,0 +1,150 @@
+main {
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    padding-left: 690px;
+
+
+
+
+}
+
+.navbar ul {
+
+    margin-top: 44px;
+
+
+    width: 558px;
+    height: 70px;
+
+
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 100px;
+    list-style: none;
+    z-index: 2;
+
+
+}
+
+.navbar .navlogo {
+    margin-top: 17px;
+    margin-left: -30px;
+}
+
+.navbar .navbandages {
+    margin-top: 26px;
+}
+
+.navbar .navstory {
+    margin-top: 26px;
+}
+
+.navbar .navjournal {
+    margin-top: 25px;
+}
+
+.navbar .navbuy {
+    margin-top: 12px;
+}
+.div4 {
+    width: 1440px;
+    height: auto;
+    padding-left: 450.74px;
+    padding-top: 69.54px;
+}
+.div5 {
+    width: 1282px;
+    height: auto;
+    display: flex;
+    flex: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin-left: -380px;
+    padding-top: 49.43px;
+
+}
+.neareststore {
+    width: 1440px;
+    height: auto;
+ }
+ 
+ .neareststore .neareststoreheading {
+    padding-inline: 347.3px;
+    padding-top: 100.42px;
+ }
+ 
+ .neareststore .stores {
+    width: 959.14px;
+    height: auto;
+    padding-left: 220.43px;
+    padding-top: 40px;
+ 
+ 
+ }
+ 
+ .stores1 {
+    display: flex;
+    justify-content: space-between;
+ }
+ .shopnowfooter {
+    width: 1440px;
+    height: 491px;
+    position: relative;
+    margin-left:-40px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    
+ 
+ }
+ .shopnowbtn {
+    position: absolute;
+    padding-top:142px;
+    margin-left: -220px;
+    
+ 
+ }
+
+ .footermain {
+    width: 1440px;
+    height:338px;
+    background-color: #D9E5FA;
+    margin-left: -230px;
+
+    
+ }
+ .footerimg1 {
+    padding-top: 66.14px;
+    padding-left: 144.56px;
+    
+ }
+ .footerline {
+    width: 353px;
+    height: auto;
+    display:flex;
+    gap: 32px;
+    flex-wrap:  wrap;
+    
+    padding-left: 513px;
+    margin-top: -200px;
+    
+    
+   
+ }
+ .footertrade {
+    margin-left: 513px;
+    margin-top: 96.21px;
+ }
+ .insta {
+    margin-left: 1167px;
+    margin-top: -240px;
+ }

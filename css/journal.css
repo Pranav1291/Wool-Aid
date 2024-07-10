@@ -1,0 +1,110 @@
+main {
+    overflow-x: hidden;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    padding-left: 690px;
+
+
+
+
+}
+
+.navbar ul {
+
+    margin-top: 44px;
+
+
+    width: 558px;
+    height: 70px;
+
+
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 100px;
+    list-style: none;
+    z-index: 2;
+
+
+}
+
+.navbar .navlogo {
+    margin-top: 17px;
+    margin-left: -30px;
+}
+
+.navbar .navbandages {
+    margin-top: 26px;
+}
+
+.navbar .navstory {
+    margin-top: 26px;
+}
+
+.navbar .navjournal {
+    margin-top: 25px;
+}
+
+.navbar .navbuy {
+    margin-top: 12px;
+}
+.journal {
+    padding-left: 188.5px;
+    padding-top: 216px;
+}
+.shopnowfooter {
+    width: 1440px;
+    height: 491px;
+    position: relative;
+    padding-left:180px;
+    padding-top: 90px;
+    padding-bottom: 0px;
+    
+ 
+ }
+ .shopnowbtn {
+    position: absolute;
+    padding-top:142px;
+    margin-left: -220px;
+    
+ 
+ }
+
+ .footermain {
+    width: 1440px;
+    height:338px;
+    background-color: #D9E5FA;
+    margin-left: -20px;
+
+    
+ }
+ .footerimg1 {
+    padding-top: 66.14px;
+    padding-left: 144.56px;
+    
+ }
+ .footerline {
+    width: 353px;
+    height: auto;
+    display:flex;
+    gap: 32px;
+    flex-wrap:  wrap;
+    
+    padding-left: 513px;
+    margin-top: -200px;
+    
+    
+   
+ }
+ .footertrade {
+    margin-left: 513px;
+    margin-top: 96.21px;
+ }
+ .insta {
+    margin-left: 1167px;
+    margin-top: -240px;
+ }

@@ -1,0 +1,251 @@
+* {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+
+    font-style: normal;
+    
+    
+}
+main {
+    overflow-x: hidden;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    padding-left: 690px;
+
+
+
+
+}
+
+.navbar ul {
+
+    margin-top: 44px;
+
+
+    width: 558px;
+    height: 70px;
+
+
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 100px;
+    list-style: none;
+    z-index: 2;
+
+
+}
+
+.navbar .navlogo {
+    margin-top: 17px;
+    margin-left: -30px;
+}
+
+.navbar .navbandages {
+    margin-top: 26px;
+}
+
+.navbar .navstory {
+    margin-top: 26px;
+}
+
+.navbar .navjournal {
+    margin-top: 25px;
+}
+
+.navbar .navbuy {
+    margin-top: 12px;
+}
+
+.getwooldelivered {
+    padding-top: 198.02px;
+    padding-left: 347.3px;
+
+}
+
+.div5 {
+    width: 1282px;
+    height: auto;
+    display: flex;
+    flex: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin-left: -360px;
+    padding-top: 49.43px;
+    padding-left: 420px;
+}
+
+.selectstore {
+    width: 1440px;
+    height: 801px;
+}
+
+.selectstoreheading {
+    padding-top: 70.64px;
+    padding-left: 437.74px;
+
+}
+
+.selectstorebtn {
+    width: 178px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    gap: 12px;
+    padding-left: 600px;
+    padding-top: 50.68px;
+
+}
+
+.selectstorebtn1 {
+    width: 113px;
+    height: 40px;
+    /* background-color: rgb(255, 106, 0); */
+    border-radius: 12px;
+    
+
+}
+
+.selectstorebtn2 {
+    width: 53px;
+    height: 40px;
+    border-radius: 12px;
+    margin-left: 730px;
+    margin-top: -40px;
+    /* background-color: rgb(151, 146, 146); */
+
+}
+
+.selectstorebtn1 p {
+    position: absolute;
+    
+    padding-top: 0px;
+    padding-left: 5px;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    
+    
+}
+
+.selectstorebtn2 p {
+    position: absolute;
+    padding-top: 0px;
+    padding-left: 5px;
+}
+
+
+.selectstorebtn1,
+.selectstorebtn2 {
+
+    background-color: #EAEAEA;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    outline: none;
+}
+
+.selectstorebtn1:focus,
+.selectstorebtn1:active,
+.selectstorebtn2:focus,
+.selectstorebtn2:active {
+    background-color: #E5682E;
+    color: white;
+}
+
+
+
+.neareststore {
+    width: 1440px;
+    height: auto;
+}
+
+
+
+.neareststore .stores {
+    width: 959.14px;
+    height: auto;
+    padding-left: 220.43px;
+    padding-top: 40px;
+    margin-top: -600px;
+    
+
+
+}
+
+
+.stores1 {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.stores2 {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    gap:12;
+    margin-top: -280px;
+}
+.footermain {
+    width: 1440px;
+    height:338px;
+    background-color: #D9E5FA;
+    margin-left: -20px;
+
+    
+ }
+ .footerimg1 {
+    padding-top: 66.14px;
+    padding-left: 144.56px;
+    
+ }
+ .footerline {
+    width: 353px;
+    height: auto;
+    display:flex;
+    gap: 32px;
+    flex-wrap:  wrap;
+    
+    padding-left: 513px;
+    margin-top: -200px;
+    
+    
+   
+ }
+ .footertrade {
+    margin-left: 513px;
+    margin-top: 96.21px;
+ }
+ .insta {
+    margin-left: 1167px;
+    margin-top: -240px;
+ }
+
+
+
+
+
+
+
+ #div2:target {
+    opacity: 1;
+}
+
+#div2:target ~ #div1 {
+    opacity: 0;
+}
+
+#div1:target {
+    opacity: 1;
+}
+
+#div1:target ~ #div2 {
+    opacity: 0;
+}
+
